@@ -10,7 +10,7 @@ Este é o meu ambiente favorito, onde ideias e inovação se transformam em cód
 </h2>
 <p>Sou um desenvolvedor fascinado por tecnologia! Desde criança, quando tive meu primeiro contato com o mundo dos games, tenho explorado e descoberto cada vez mais sobre esse fascinante campo. Acredito que a tecnologia oferece oportunidades incríveis para melhorar a vida das pessoas. Meu sonho é viajar pelo mundo, compartilhando meus conhecimentos e adquirindo novas experiências. Acredito que o acesso ao conhecimento é fundamental para todos.</p>
 
-<p>Você pode me contactar por e-mail:<a href="https://mail.google.com/mail/u/0/#inbox">cleversonandrade62@gmail.com</a>.</p> 
+<p>Você pode me contactar por e-mail: <a href="mailto:cleversonandrade62@gmail.com">cleversonandrade62@gmail.com</a>.</p> 
 <br>
 
 <p>Tenho conhecimento em: </p>
