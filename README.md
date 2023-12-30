@@ -6,7 +6,6 @@ Este é o meu ambiente favorito, onde ideias e inovação se transformam em cód
 </h3>
 <p>Sou um desenvolvedor fascinado por tecnologia! Desde criança, quando tive meu primeiro contato com o mundo dos jogos, fui explorando e descobrindo cada vez mais sobre esse campo fascinante. Acredito que a tecnologia oferece oportunidades incríveis para melhorar a vida das pessoas. Meu sonho é viajar pelo mundo, compartilhando meus conhecimentos e adquirindo novas experiências. Acredito que o acesso ao conhecimento é fundamental para todos.</p>
 
-![Cleverson GitHub stats](https://github-readme-stats.vercel.app/api?username=cleversonandrade&show_icons=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleversonandrade&layout=compact)
 
 ## Tecnologias que tenho conhecimento:
