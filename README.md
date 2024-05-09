@@ -1,10 +1,10 @@
 
-## Olá eu sou Cleverson Andrade. Desenvolvedor Front-End. 💻
+## Olá eu sou Cleverson Andrade. Desenvolvedor Front-End e Programador Python. 💻
 
 <h3 alinhar="esquerda">
 Este é o meu ambiente favorito, onde ideias e inovação se transformam em código.
 </h3>
-<p>Sou um desenvolvedor fascinado por tecnologia! Desde criança, quando tive meu primeiro contato com o mundo dos jogos, fui explorando e descobrindo cada vez mais sobre esse campo fascinante. Acredito que a tecnologia oferece oportunidades incríveis para melhorar a vida das pessoas. Meu sonho é viajar pelo mundo, compartilhando meus conhecimentos e adquirindo novas experiências. Acredito que o acesso ao conhecimento é fundamental para todos.</p>
+<p>Sou um desenvolvedor fascinado por tecnologia! Desde criança, quando tive meu primeiro contato com o mundo dos jogos virtuais com a chegada dos primeiros consoles, fui explorando e descobrindo cada vez mais sobre esse campo fascinante. Atualmente graduando em Análise e Desenvolvimento de Sistemas acredito que a tecnologia oferece oportunidades incríveis para melhorar a vida das pessoas. Acredito que o acesso ao conhecimento é fundamental para todos.</p>
 
 ![Cleverson GitHub stats](https://github-readme-stats.vercel.app/api?username=cleversonandrade&show_icons=dracula)
 
