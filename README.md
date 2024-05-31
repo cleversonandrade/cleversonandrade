@@ -1,5 +1,5 @@
 
-## Olá eu sou Cleverson Andrade. Desenvolvedor Front-End e Programador Python. 💻
+## Olá eu sou Cleverson Andrade. Desenvolvedor Full-Stack . 💻
 
 <h3 alinhar="esquerda">
 Este é o meu ambiente favorito, onde ideias e inovação se transformam em código.
